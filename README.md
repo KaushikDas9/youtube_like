@@ -49,8 +49,7 @@ Welcome to Youtube_like , a video sharing app built with Flutter. This app allow
 ## Screenshots
 --------------
 
-![Home Page](assets/home_page.png)
-![Profile Page](assets/profile_page.png)
+
 
 ## Contributing
 ---------------
