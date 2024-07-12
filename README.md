@@ -1,5 +1,16 @@
 # Video Sharing App
-=====================
+====================
+## Screenshots
+--------------
+
+![Profile Page](assets/SingIn%20Page_1.1.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile Page](assets/Home%20Page1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Home Page](assets/Home%20PAGE%202_1.9.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Home Page](assets/Profile%20page_1.6.1(1)(1).png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Home Page](assets/Upload%202_1.8.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile Page](assets/Upload%20Page_1.7.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Home Page](assets/VIdeo%20Playback_1.11.1.png)
+
 
 ## Introduction
 ---------------
@@ -46,16 +57,6 @@ Welcome to Youtube_like , a video sharing app built with Flutter. This app allow
 2. Install the dependencies: `flutter pub get`
 3. Run the app: `flutter run`
 
-## Screenshots
---------------
-
-![Profile Page](assets/SingIn%20Page_1.1.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Profile Page](assets/Home%20Page1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Home Page](assets/Home%20PAGE%202_1.9.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Home Page](assets/Profile%20page_1.6.1(1)(1).png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Home Page](assets/Upload%202_1.8.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Profile Page](assets/Upload%20Page_1.7.1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Home Page](assets/VIdeo%20Playback_1.11.1.png)
 
 ## Working Video Link
 --------------
